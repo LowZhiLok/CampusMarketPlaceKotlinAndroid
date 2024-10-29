@@ -1,0 +1,36 @@
+<resources>
+    <string-array name="Category">
+        <item>Furniture</item>
+        <item>Electronics</item>
+        <item>Clothes</item>
+        <item>Second Hands</item>
+    </string-array>
+    <string name="app_name">Campus Marketplace</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="shopchatimage">shopchatImage</string>
+    <string name="login_background">login_background</string>
+    <string name="tabLayout">tabLayout</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="enter_your_email_address_we_ll_send_you_an_email_to_reset_your_password">Enter your email address. We\'ll send you an email to reset your password</string>
+    <string name="email_id">Email</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="search_now">Search Now</string>
+    <string name="back_icon">back icon</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="prices">Prices</string>
+</resources>

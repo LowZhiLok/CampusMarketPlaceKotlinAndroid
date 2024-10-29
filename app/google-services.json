@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672563686293",
+    "project_id": "campus-marketplace-b4b89",
+    "storage_bucket": "campus-marketplace-b4b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672563686293:android:73639e8578617e19b1e49c",
+        "android_client_info": {
+          "package_name": "com.example.campusmarketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeiWQXruCupCpq3uj76ODAvHcKpI8OYdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
